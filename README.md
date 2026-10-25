@@ -83,10 +83,6 @@ Section order in App.jsx: Preloader, Navbar, Hero, About, Skills, Projects, Cert
 
 The site is deployed on Vercel, connected to this repository. Every push to `main` triggers a new production deployment automatically.
 
-## Credits
-
-The overall layout and motion style take inspiration from [leeshark21/video_portfolio](https://github.com/leeshark21/video_portfolio). All content, copy, projects, certificates and code changes in this repository are my own.
-
 ## Contact
 
 - Email: [rishisinghpat323@gmail.com](mailto:rishisinghpat323@gmail.com)
